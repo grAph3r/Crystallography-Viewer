@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crystallography Viewer</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="importmap">
+    { "imports": { "three": "https://unpkg.com/three@0.155.0/build/three.module.js",
+                   "three/addons/": "https://unpkg.com/three@0.155.0/examples/jsm/" } }
+    </script>
+</head>
+<body>
+    <div id="ui-panel">
+        <h3>Controls</h3>
+        <label><input type="checkbox" id="showBonds" checked> Show Bonds</label><br>
+        <label><input type="checkbox" id="showUnitCell" checked> Show Unit Cell</label><br>
+        <label><input type="checkbox" id="showAxes" checked> Show Axes</label>
+    </div>
+    <script type="module" src="app.js"></script>
+</body>
+</html>
