@@ -3,19 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <title>Crystallography Viewer</title>
-    <link rel="stylesheet" href="style.css">
+    <style>
+        body { margin: 0; overflow: hidden; background: #222; }
+    </style>
+    <!-- Import Map to resolve bare module names -->
     <script type="importmap">
-    { "imports": { "three": "https://unpkg.com/three@0.155.0/build/three.module.js",
-                   "three/addons/": "https://unpkg.com/three@0.155.0/examples/jsm/" } }
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+          "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+        }
+      }
     </script>
 </head>
 <body>
-    <div id="ui-panel">
-        <h3>Controls</h3>
-        <label><input type="checkbox" id="showBonds" checked> Show Bonds</label><br>
-        <label><input type="checkbox" id="showUnitCell" checked> Show Unit Cell</label><br>
-        <label><input type="checkbox" id="showAxes" checked> Show Axes</label>
-    </div>
     <script type="module" src="app.js"></script>
 </body>
 </html>

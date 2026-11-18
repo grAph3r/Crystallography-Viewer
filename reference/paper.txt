@@ -1,0 +1,756 @@
+The determination of the interface structure between ionocovalent
+compounds: the general case study of the Al 2O3/ZrO 2large mis-fit system
+G. Trolliard, *aR. Benmechta,aD. Mercurioaand O. I. Lebedevb
+Received 22nd March 2006, Accepted 25th July 2006
+First published as an Advance Article on the web 23rd August 2006
+DOI: 10.1039/b604232e
+Heterophase interfaces between alumina and zirconia are investigated by an HREM approach.
+The studied samples are synthesized by the sol–gel route, which allows the growth of thin islands
+of pure zirconia showing heteroepitaxial growth on (112 ¯0)sasapphire substrates. Their
+heteroepitaxial relationship is first established by electron diffraction. Specific cross sectional
+samples are then prepared, normal to the in-plane common directions. Then, HREM images
+allow definition of the metric of the coincidence super-cell between the two lattices. The crystal
+chemistry of these heteroepitaxial interfaces is then presented for two peculiar orientation
+variants. The geometry of the interfacial polyhedra of coordination is presented and a 3D
+interface model is established for the main orientation. It is shown that the orientation
+relationship is governed by the occurrence of continuous cationic lattice planes across the
+interface. They correspond to ‘structural walls’ which are typical structural features of the
+orientation variants.
+Alumina/zirconia represents a case of large mis-fit system. However, except for the expected
+geometrical dislocations and ledges, the interfaces present very few physical defects. However, the
+overall interfacial polyhedra of coordination suffer high distortion. The lattice mismatch could
+thus be locally accommodated by an important elastic strain linked to fluctuations of the cation–
+anion interatomic distances. The predominance of this relaxation mechanism, based on the
+adaptability of the ionocovalent bonds, seems a characteristic of oxide/oxide interfaces.
+Introduction
+When two compounds present heteroepitaxial relationships,
+the interface between them exhibits a specific structure. It’s
+investigation at the atomic scale is, however, not easy as this
+crystalline region is actually perturbed by a large amount of
+defects and suffers high lattice strain, mainly due to lattice
+mismatches. In addition, owing to its 2-dimensional character,
+the diffracting volume is so restricted that XRD investigations
+can only provide limited information. Thus, TEM remains one
+of the most appropriate techniques to determine the structure
+of interfaces. Based on TEM analysis, there are certain cases in
+which the interface structure is well understood. The deter-
+mination of the structure of interfaces has been particularly
+successful in metals1,2and in covalent solids, such as semi-
+conductors for example.3–8The determination of the coin-
+cidence site lattice (CSL) represents a particular structure of
+the interface, and calculations conducted by lowering the
+interfacial energy provide more stable orientations. The
+expected results can be confirmed by TEM investigations,
+and when the coincidence relationships are not perfect, near
+coincidence site lattice (NCSL) calculations are carried out in
+order to get the best structural fit. If the lattice mismatch is toohigh, depending on the relative parameters or film thickness
+(critical thickness), the lattice strain is usually relaxed by
+interfacial defects1,3and in such a case TEM analysis provides
+complete set of structural information both to build up an
+interface model and to understand the mechanisms which
+accommodate the mismatch between the two lattices.4In
+addition, chemical information has recently been provided in
+covalent compounds by determining the direct compositional
+analysis of AlGaAs/GaAs heterostructures.9
+Perovskite-type compounds are functional oxides and with
+this aim, were intensively investigated by TEM as thin films
+deposited on perovskite single crystals10–14and recently as
+superlattices15exhibiting dual properties. In all these materials,
+a structural continuity across the interface is obviously
+achieved by corner-sharing octahedra16,17to maintain the
+perovskite stacking across the interface. The interface model
+is thus easily drawn and it may be, due to these structural
+similarities, that the relaxation mechanisms involved in these
+systems are very close to those observed in metals or covalent
+compounds, as stated by Langjahr et al.18Detailed investiga-
+tions of the chemical composition in the nanoscale regions by
+EELS are reported to help a better understanding of the
+electrical properties of perovskite multilayer systems.19
+At the moment, very few works deal with the establishment
+of the interface structures in heteroepitaxial oxides exhibiting
+contrasted structural properties.20,21Up to now, in the
+alumina/zirconia system, some of the orientation variants
+have been successfully established either in the case of thin
+films of yttrium-doped tetragonal zirconia grown on aaSciences des Proce ´de´s Ce´ramiques et des Traitements de Surface
+UMR6638, 123 Av. Albert THOMAS, 87060, Limoges Cedex, France.
+E-mail: trolliard@unilim.fr; Fax: +33 (0)5 55457270;
+Tel: +33 (0)5 55457494
+bEMAT, University of Antwerp, Groenenborgerlaan 171, B-2020,
+Antwerp, BelgiumPAPER www.rsc.org/materials | Journal of Materials Chemistry
+3640 |J. Mater. Chem. , 2006, 16, 3640–3650 This journal is /C223The Royal Society of Chemistry 2006
+Published on 23 August 2006. Downloaded by North Carolina State University on 12/11/2025 4:09:04 AM. 
+View Article Online
+ / Journal Homepage
+ / Table of Contents for this issue
+
+=====PAGE=====
+sapphire substrate22,23or in a directionally-solidified oxide/
+oxide eutectic showing dispersoids of yttrium doped cubiczirconia in an alumina matrix.
+24,25Orientation relationships
+between pure monoclinic zirconia thin films deposited on
+monocrystalline sapphire were also previously investigated.26
+A few attempts were also carried out in order to establishstructural affinities between these oxides,
+25,27mainly by com-
+parison of their respective cationic and anionic lattices, but at
+the moment no interface model has been established for such
+interfaces. In addition to the heteroepitaxial relationships, weneed to know the nature of cations involved in the interface aswell as the chemical bonds developed between cations and
+anions in this region, i.e.the respective role of cationic and
+anionic lattices in the establishment of the interface.
+In this paper, we propose an approach to determine the
+interface models in oxides. The approach is proposed in thecase of large mis-fit systems which represent the general casestudy and should therefore be applicable to the study of allkinds of oxide interfaces. With this aim, the ZrO
+2–Al 2O3
+system has been chosen as no intermediate phase could beformed within the interface. In addition, the solid solutionoccurring between these two compounds is usually verylimited
+28,29in composites produced by conventional methods,
+due to the much smaller ionic radius of Al3+(0.5 A ˚) compared
+to Zr4+(0.8 A ˚).30Thus, the zirconia/alumina system can be
+considered a non-reactive interface. For that reason also, thedoping with yttrium was avoided as this chemical elementcan either be introduced in the zirconia phase
+28or form an
+intermediate phase (Y 3Al5O12:YAG) with alumina.31,32This
+discussion is mainly focused on the structural effects thatinfluence the heteroepitaxial relationships and on the relaxa-tion mechanisms involved in oxide/oxide interfaces.
+Experimental
+Thin layers of undoped zirconia a few tens of nanometres thickwere grown by the sol–gel route using the deep coating
+technique on single crystal sapphire substrates cut parallel to
+(112¯0)
+sa. The detailed protocol of elaboration has been
+described in a previous paper.26The single crystals (10 6
+1062 mm) were provided by High Tech Company (H.T.C).
+Before deposition, the substrates were heated for 1 h at
+1700uC, both to remove the stress due to the mechanical
+polishing of the surface and to preclude any effect of pollutionat the substrate surface. They were then plunged in a soland withdrawn at constant speed (100 mm min
+21). The sol
+precursor was elaborated in the zirconium n-propoxyde
+(Zr(OC 2H5)4)–acetylacetone (acac)–propan-1-ol system. The
+synthesis was carried out in a glove-box under a dryatmosphere to avoid alcoxide hydrolysis during the synthesis.The respective ratios in zirconium ( C= [Zr(OC
+2H5)4]) and
+complexation ( R= [acac]–[Zr(OC 2H5)4]) used in the present
+study are reported in Table 1. The thin films were synthesizedwith water free solutions ( W=[ H
+2O]–[Zr(OC 2H5)4] = 0) in
+order to obtain homogeneous and transparent sols. Sampleswith different final thickness could be obtained after several
+deposits. In such a case, a 30 min drying at 60 uC was
+performed between each dipping. After sol deposition, thesamples were first heated at 600 uC for 1 h in order to removethe organic species and to promote the crystallization of the sol
+precursor. Thin perfectly homogeneous and continuous poly-
+crystalline layers were then obtained [see ref. 26]. Theirthickness, precisely determined by X-ray reflectometry, will
+be called initial thickness in the following and noted e
+i. The
+samples were then submitted to subsequent annealing treat-ment performed at high temperature (1500 uC), giving rise to
+various microstructures characterized by the formation of
+heteroepitaxied zirconia islands.
+26The crystallization pro-
+cesses involved during the formation of zirconia islands will
+be discussed in a forthcoming paper. It should, however, benoted that the phase transition temperature between the
+high temperature tetragonal form and the low temperature
+monoclinic form of zirconia is roughly situated at about1070uC and that consequently the heteroepitaxial growth of
+the zirconia islands is performed in the stability field of the
+tetragonal structure.
+TEM observations were carried out both on plane view and
+cross section samples. Plane views were first used to determine
+the heteroepitaxial relationships between alumina and zirco-nia. They were prepared by cutting 3 mm diameter disks.
+These disks were ground, dimpled and finally thinned to
+perforation by Ar-milling from the substrate side in a GatanPrecision Ion Polishing System (PIPS 692) at 4 keV. Cross
+sections, normal to the in-plane common direction, were also
+prepared to obtain high resolution images of the interfaces.
+The good orientation was achieved by X-ray diffraction
+experiments carried out on the sapphire single crystal. Cross-sectional specimens were prepared by cutting samples into
+slices along the chosen planes. Two slices were glued face-to-
+face joining the film-covered surface. These sandwiches werethen introduced in a copper cylinder tube and thin discs were
+then ground, dimpled and finally polished by Ar-milling.
+TEM observations were carried out on conventional 200 kV
+JEOL 2010 microscope and in-detailed investigation of the
+interface was achieved by subsequent experimentation on a
+JEOL 4000EX (resolution of 1.7 A ˚) high resolution micro-
+scope operating at 400 kV. Regions of the negatives were
+digitized using a charge-coupled device video camera mounted
+above a light box and interface information was obtained byimage processing, using routines with CRISP.
+33
+Results
+A previous study of pure zirconia deposited on a (112 ¯0)sa
+sapphire substrate has shown that two types of islands are
+present,26differing by their orientation with respect to the
+single crystal substrate. In the following, we will use the terms
+normal and in-plane orientation (see also ref. 22) to charac-
+terize the epitaxial relationships between zirconia and alumina.
+The normal orientation is given by planes parallel to theTable 1 The different main parameters involved in the synthesis of
+the sols
+Sol number C/mol l21R/mol l21
+1 0.10 0.70
+2 0.25 0.50
+3 0.25 0.70
+This journal is /C223The Royal Society of Chemistry 2006 J. Mater. Chem. , 2006, 16, 3640–3650 |3641
+Published on 23 August 2006. Downloaded by North Carolina State University on 12/11/2025 4:09:04 AM. 
+View Article Online
+
+=====PAGE=====
+interface or by parallel directions normal to the interface, when
+exist. The in-plane orientation is given by common rows within
+the interface planes or by parallel planes perpendicular to theinterface. The two types of islands are flat islands showing
+(100)
+m//(112 ¯0)sa, (010) m//(112 ¯0)saor (001) m//(112 ¯0)sanormal
+orientations and dome-shape islands with (111 ¯)m//(112 ¯0)saor
+(1¯11) m//(112 ¯0)sa. It has also been recently shown that flat
+islands are more stable than the others34and consequently, this
+study has been carried out on samples in which the preferential
+growth of flat islands has been favored. Fig. 1 shows a generaloverview of this kind of samples observed in cross section. Thethin zirconia layer is quite continuous and displays islands the
+size of which ranging from few hundred nanometers to few
+microns. The constancy of the thickness (about 70 nm) of theislands is remarkable.
+The investigation carried out in order to characterize the
+orientation relationships between pure zirconia and the
+(112¯0)
+sasapphire substrate reveals that numerous orientation
+variants are present. The diversity of the orientation relation-ships between alumina and zirconia appears as a characteristic
+of this large mis-fit system and similar results are shown in the
+literature attesting of the same conclusions when zirconia isdoped by yttrium.
+22The results concerning the exhaustive
+investigation of the orientation variants will be presented in
+another contribution but in the present paper, we shall attemptto understand the structural reasons that explain the diversityof the orientation in these systems. For that, we focus on two
+orientation variants. The first one, called the main orientation,
+corresponds to an orientation frequently observed in thestudied samples. The second one belongs to less-stable
+secondary orientations which are only seldom seen.
+The main orientation variant
+The establishment of the interface structure first requires
+determination of the orientation relationship between the two
+heteroepitaxied compounds. This information is provided bythe examination of plane-view samples. Fig. 2a shows azirconia island (see arrow) displaying (100) twin planes. The
+selected area diffraction patterns presented in Fig. 2b results in
+the contribution of both zirconia and substrate. The aluminapresents the expected [112 ¯0]
+sazone axis while zirconia is
+characterized by [01 ¯0]m1and [010] m2zone axis patterns of the
+m1and m 2twin individuals. Therefore, the normal orientation
+of both m 1and m 2is [01 ¯0]m1//[112 ¯0]saand [010] m2//[112 ¯0]sa,
+thus the (112 ¯0)saplane of sapphire is parallel to the (010) m
+plane of zirconia in the two twin individuals. The in-plane
+orientation is however less easy to determine as no reciprocal
+rows of the zirconia phase seem to be parallel to any of thealumina. Nevertheless, one can note a peculiar orientation
+between the [1 ¯102¯]
+/C3
+sadirection of the substrate and the [001]/C3
+m1
+and [001]/C3m2reciprocal rows related to the two orientation
+variants as follows:
+[001]/C3
+m1y//[1¯102¯]/C3
+sa)(001) mly//(1¯102¯)say9.2u
+[001]/C3
+m2y//[1¯102¯]/C3
+sa)(001) m2y//(1¯102¯)say9.2u
+In addition, a supplementary 020 diffraction spot has also
+been observed between the 002 m2and 002 m1diffraction
+spots, forming a triplet (Fig. 2c). The investigation of the
+twinning microstructure in cross section samples gives a three-
+dimensional model of the twinning microstructure.34This
+020 diffraction spot is in fact shown to be related to the
+contribution of a third twin individual, buried near the
+interface, which gives the actual orientation relationships withthe substrate. Electron diffraction experiments reveal that this
+Fig. 1 Overview showing a sample mainly composed of flat islands.
+Fig. 2 Flat island exhibiting the mainly encountered orientation. (a) Overview showing a twinned zirconia island characteristic of the monoclinic
+phase. (b) Selected area diffraction patterns obtained on the island pointed by an arrow in (a). (c) Selection of a part of the EDPs showing the
+common reciprocal direction between alumina and zirconia.
+3642 |J. Mater. Chem. , 2006, 16, 3640–3650 This journal is /C223The Royal Society of Chemistry 2006
+Published on 23 August 2006. Downloaded by North Carolina State University on 12/11/2025 4:09:04 AM. 
+View Article Online
+
+=====PAGE=====
+third twin individual is misorientated by 9.2 ucompared to
+[010] m1,m2 and presents a [100] m3zone axis. Owing to this
+strong misorientation, this pattern only displays the [010]/C3
+m3
+reciprocal raw. The latter is strictly parallel to [1 ¯102¯]/C3
+saand
+consequently the in-plane orientation of the island with the
+substrate is thus (010) m3//(1¯102¯)sa(or (11 ¯02) sa: see Fig. 3). The
+orientation can also be noted by the in-plane common
+directions: [001] m3//[1¯101] sa(Fig. 3). The orientation relation-
+ships of the three twin individuals are thus reported in Table 2.
+Knowing the orientation between the two crystals one can
+expect to determine the coincidence cell of the two lattices witha projection of the cation lattices of alumina and zirconia
+parallel to the (112 ¯0)sainterface plane. In Fig. 3, the two
+cationic lattices are orientated with respect to their common
+directions. At a first glance, it is obvious that the 2-dimen-
+sional coincidence cell is difficult to visualize. Complementaryinformation is thus required to define the metric of the
+coincidence cell. In order to investigate the structural relations
+prevailing between the common planes across the interface((010)
+mand (11 ¯02) sa), cross section samples were prepared
+normal to common directions [001] mand [1 ¯101] sa. The HREM
+image of this interface is shown in Fig. 4. After digitalization,
+the image was investigated with the CRISP software. Thepower spectrum obtained by numerical Fourier transform
+shows the expected orientation relationships (Fig. 4b). In order
+to enhance the observation of the common planes across theinterface, a Bragg filtered image was calculated (Fig. 4c) with acareful selection of the integral surface of the Bragg peaks
+encircled in Fig. 4b. The Bragg filtering was conducted by
+using annular masks simultaneously around the +g and 2g
+positions. The obtained image (Fig. 4c) shows the perfect
+structural continuity of the lattice planes across the interface
+between the (010)
+mzirconia planes and the (11 ¯02) saalumina
+planes. This continuity is periodically achieved each 3 (11 ¯02) sa
+planes of alumina and each 4 (020) mplanes of zirconia.
+Between these continuous planes, a supplementary half (020) m
+plane of zirconia is inserted within the interface. It results in
+the occurrence of a typical contrast characteristic of geome-
+trical interface dislocations whose distribution is also periodic.
+The metric of the coincidence cell is 3 d(11¯02) sa#4d(020) m#
+10.4 A ˚. The linear parametric mis-fit F0can be calculated
+based on the crystallographic data of monoclinic zirconia35
+(am= 5.146(7) A ˚,bm= 5.205(1) A ˚,cm= 5.313(6) A ˚,b=
+99.1(8)) and of alumina36(asa= 4.7607(9) A ˚,bsa= 4.7607(9) A ˚,
+csa= 12.9947(17) A ˚):
+F0~3d1¯102{4d020/C0/C1
+3d1¯102~0:0032~0:32%
+The structural reason of this 10.4 A ˚periodicity is explained
+by the projection of the cation lattices of alumina and zirconia
+parallel to the interface plane (Fig. 3). It is shown that thecations of the two compounds are periodically well alignedalong common rows spaced with a 10.4 A ˚periodicity
+corresponding to HREM imaging. This observation suggests
+that the structural continuity across the interface could beachieved by a 2-dimensional cationic lattice in which
+zirconium and aluminium atoms are associated in the
+(11¯02)
+saand (010) mcommon lattice planes. This assumption
+is confirmed by Fig. 5a that shows the remarkable analogy ofthe (010)
+mzirconia plane and (11 ¯02) sasapphire plane of the
+two cationic lattices. These two planes form a coherent and
+continuous cationic plane between the two compounds. Fig. 5bshows the same cationic lattices with their respective anionicpolyhedra: [AlO
+6] octahedra within alumina and distorted
+[ZrO 7] polyhedra in the monoclinic zirconia. Their structural
+consistency allows, as shown in Fig. 5b, determination of thegeometry of the Al
+2O3/ZrO 2interface polyhedra. As shown in
+Fig. 4c, zirconium atoms are then located within oxygen
+polyhedra formed by planar anionic lattices of zirconia (O 1)
+and alumina (O 2). This association of the two polyhedra
+Fig. 3 Projection of the bidimensional cation lattices of zirconia
+plane and alumina parallel to the interface. The P1 periodicity of about
+10.4 A ˚corresponds to the superimposition of cations forming
+continuous lattices of cations across the interface. In the common
+direction, the P2 and P29periodicity of the two cationic lattices are
+very close. Theses two periodicities allow definition of the coincidence
+cell underlined by dashed lines. Within the interface the arotation is
+compensated by the adjustment of the cation–anion distances.
+Table 2 Heteroepitaxial relationships observed between each m 1,m 2
+and m 3twin individuals of the monoclinic zirconia island and alumina
+substrate
+Orientation Orientation relationships
+Normal orientation (01¯0)m1//(112 ¯0)sa
+(010) m2//(112 ¯0)sa
+(100) m3//(112 ¯0)sa
+In-plane orientation (001) m1y//(11¯02)sa y9.2u
+(001) m2y//(11¯02) sa y9.2u
+(010) m3//(11¯02) sa
+This journal is /C223The Royal Society of Chemistry 2006 J. Mater. Chem. , 2006, 16, 3640–3650 |3643
+Published on 23 August 2006. Downloaded by North Carolina State University on 12/11/2025 4:09:04 AM. 
+View Article Online
+
+=====PAGE=====
+lattices of alumina and zirconia results in a strong link
+across the interface. These continuous walls of cations can be
+considered as periodic ‘structural walls’ crossing the interface.
+However, as previously said, the zirconia islands were formed
+at high temperature (1500 uC) and it is thus highly possible
+that the heteroepitaxial relationship was first establishedbetween tetragonal zirconia and alumina. For that reason,
+we have studied the existence of such structural walls between
+tetragonal zirconia and alumina. The orientation relationshipbetween the tetragonal phase and alumina has been established
+on the basis of the phase transformation variants proposed by
+Shima.
+37,38In fact, Fig. 5c and d show that these typical
+structural walls already exist at high temperature between the
+tetragonal zirconia islands and the alumina substrate. Thecoherence and the continuity between the two cationic lattices
+are still improved in the case of tetragonal zirconia (Fig. 5c
+and d). The P1 periodicity of the coincidence super-cell thuscorresponds to the periodicity of these ‘‘structural walls’’
+(Fig. 3). In addition, Fig. 3 shows that the two cationic lattices
+present another very likely periodicity ( P
+2and P29) along the
+two common in-plane directions: the [001] mand [1 ¯101] sa. This
+second periodicity allows determination of the 2-dimensional
+coincidence cell of the two compounds within the interface
+(dashed line in Fig. 3).
+As seen before, with respect to the normal orientation of the
+flat islands involving the (112 ¯0)saplanes of the sapphire and
+the (100) mplanes of the monoclinic zirconia, the Al 2O3/ZrO 2
+interface can be described by a regular stacking of anionic and
+cationic planes, the inter-reticular distances being very similar
+in both compounds. The complete sequence can be formulated
+as Al–O 1–Zr–O 2, in which O 1corresponds to the common
+anionic plane provided by alumina and O 2is the natural
+intrinsic anionic plane of ZrO 22m. Fig. 6 is an in-plane
+representation of the interface structure between the
+Fig. 4 Observations of the interface of the main orientation variant HREM image. (a) Fourier transform (FT) obtained on a large 1020 6
+1024 area. (b) Bragg filtered image corresponding to the selected area in (a). The latter is built up by the selection of the reciprocal reflections
+encircled in (b). (c) Interface structure of the main orientation variant viewed along the two common in-plane directions of zirconia ([001] m) and
+alumina ([1 ¯101] sa). (d) Three polyhedra are observed between two structural walls. The white dots superimposed on polyhedra stand for the white
+dots observed in the HREM image.
+3644 |J. Mater. Chem. , 2006, 16, 3640–3650 This journal is /C223The Royal Society of Chemistry 2006
+Published on 23 August 2006. Downloaded by North Carolina State University on 12/11/2025 4:09:04 AM. 
+View Article Online
+
+=====PAGE=====
+monoclinic zirconia and the sapphire substrate. Based on the
+coincidence cell (Fig. 3), Fig. 6a and b, respectively, represent
+the zirconium atoms surrounded by O 2anions and the
+aluminium atoms with the O 1anionic layer. Fig. 6c shows
+the superimposition of these lattices and, to enhance thevisibility of the interface structure, the underling lattice of
+aluminium cations has been removed from the representation
+(O
+1–Zr–O 2sequence). This projection allows establishing the
+coherence of the anionic and cationic lattices within theinterface in order to determine the coordination polyhedra
+around the zirconium atoms. Each Zr
+4+is shown to be in
+7-fold coordination with the O22anions of the O 1and O 2
+layers. This coordination results in the specific geometry of the
+two anionic lattices: 36lattice for O 1in Al 2O3and 44lattice
+for O 2in ZrO 2. All zirconium atoms which belong to the
+coincidence cell are thus linked to the alumina by their ownanionic polyhedra. Obviously, the exact geometry of thesepolyhedra is not accurately known. They seem to be irregular,but one must keep in mind that the presented model is built up
+considering that the two compounds behave as rigid lattices. In
+reality, it is highly probable that a mechanism of relaxation ofthe elastic strain took place, leading to a regularization ofatomic distances in the interface polyhedra. Fig. 4c shows that
+the relaxation of such interfacial strain is efficient in a layer
+confined to few atomic layers situated on each side of theinterface, as shown by the stretching of the bright spotscorresponding to atomic columns in the HREM image. These
+atomic shifts could account for the regularization of atomicdistances in the interface polyhedra. This aspect will be
+discussed below. Based on such a structural model, Fig. 4d
+represents a projection of the interface structure perpendicularto the two common in-plane directions [001]
+mand [1 ¯101] sa.
+The location of the ‘‘structural walls’’ is indicated by darkarrows. In each coincidence cell, the occurrence of three
+interface polyhedra is noticeable in which zirconium atoms are
+in 7-fold coordination with O
+1and O 2atoms. The white dots
+superimposed on polyhedra stand for the white dots observedin the HREM image (Fig 4c and d).
+The proposed model accounts for the heteroepitaxial
+relationships between monoclinic zirconia and sapphire. Theinterface model was also done for the tetragonal phase (Fig. 7)
+using the same protocol as for the monoclinic one. As
+expected, the coordination polyhedra seem more regular forthe tetragonal phase (Fig. 7) than for the monoclinic one(Fig. 6). In the case of the main orientation variant, it is thusconcluded that the best fit between alumina and zirconia is
+then observed with a tetragonal zirconia. Starting from this
+interface model and knowing the anion–cation distanceswithin alumina and zirconia and the different angles betweenthe different bonds, a 3-dimensional model of the interface can
+Fig. 5 Projections of the (11 ¯02) saalumina and (010) zirconia planes
+shared within the interface. Monoclinic zirconia and alumina: cationic
+lattices (a) and cations with their oxygen coordination polyhedra (b).
+Tetragonal zirconia and alumina: cationic lattices (c) and cations with
+their oxygen coordination polyhedra (d).
+Fig. 6 Elaboration of the interface structure of the main orientation
+variant: ZrO 22m/Al2O3. (a) Zr4+and O2{
+ðZrO2{mÞ(O2plane) lattices of
+the coincidence cell of ZrO 22m. (b) Al3+and O2{
+ðAl2O3 Þ(O1plane) lattices
+of the coincidence cell of Al 2O3. (c) Interface formed by the
+superimposition of the Zr4+cationic lattice and of the O2{
+ðZrO2{mÞ(O2
+plane) and O2{
+ðAl2O3 Þ(O1plane) lattices.
+This journal is /C223The Royal Society of Chemistry 2006 J. Mater. Chem. , 2006, 16, 3640–3650 |3645
+Published on 23 August 2006. Downloaded by North Carolina State University on 12/11/2025 4:09:04 AM. 
+View Article Online
+
+=====PAGE=====
+be proposed (Fig. 8). The reduced coordinates of atoms are
+first calculated within the coincidence cell and in the following
+aP1 triclinic cell of the interface was created as a database.
+The interface structure has been drawn using the DIAMOND
+software.39This representation of the interface illustrates
+that the zirconium polyhedra generally exhibit a 7-foldcoordination characteristic of the environment of the mono-
+clinic phase.The more exotic secondary orientation variant
+The study of the main orientation variant has shown the
+existence of strong relationships between the cationic planes of
+the two compounds across the interface. This typical structuralfeature surely plays a key role in the heteroepitaxial relation-
+ships and one can wonder if the more exotic secondary
+variants also exhibit the same behavior. Fig. 9 shows a HREMimage of this kind of ZrO
+2/Al2O3interface. The contrast of the
+image is quite bright near the interface. It seems that this
+region is a little bit thick and this contrast may be attributed to
+the occurrence of ledges on the substrate orientated sub-
+parallel to the observation plane. This interface presentsperiodical dark dots (Fig. 9a) linked to the occurrence of
+strained regions in the interface. The orientation relationship
+between alumina and zirconia provided by the power spectrum
+(Fig. 9b) can be formulated as follows:
+normal orientation: (010)
+m//(112 ¯0)sa
+in plane orientation: (101 ¯)m//(11¯08) sa)[101] m//[4¯401] sa
+Fig. 7 Elaboration of the interface structure of the main orientation
+variant: ZrO 22T/Al2O3. (a) Zr4+and O2{
+ðZrO2{TÞ(O2plane) lattices of
+the coincidence cell of ZrO 22T. (b) Al3+and O2{
+ðAl2O3 Þ(O1plane)
+lattices of the coincidence cell of Al 2O3. (c) Interface formed by
+the superimposition of the Zr4+cationic lattice and of the O2{
+ðZrO2{TÞ
+(O2plane) and O2{
+ðAl2O3 Þ(O1plane) lattices.
+Fig. 8 Three-dimensional representation of the heterophase interface
+structure between ZrO 22T/Al2O3. The interface is formed by specific
+polyhedra in which the zirconium atoms are generally in a seven-foldcoordination.
+Fig. 9 Observations of the interface of a secondary orientation
+variant. (a) HREM image. (b) Fourier transform (FT) obtained on a
+large 1020 61024 area. (c) Bragg filtered image corresponding to
+the selected area in (a). The latter is built up by the selection of the
+reciprocal reflections encircled in (b). (d) Representation of the
+cationic lattices explaining the interface structure of the secondary
+orientation variant viewed along the two common in-plane directions
+of zirconia ([101] m) and alumina ([4 ¯401] sa). The white dots observed in
+the HREM image (Fig. 9c) correspond to the atomic columns shown in
+the model.
+3646 |J. Mater. Chem. , 2006, 16, 3640–3650 This journal is /C223The Royal Society of Chemistry 2006
+Published on 23 August 2006. Downloaded by North Carolina State University on 12/11/2025 4:09:04 AM. 
+View Article Online
+
+=====PAGE=====
+Here too, a Bragg filtered image was used to determine the
+metric of the coincidence cell. Fig. 9c represents the inverse
+Fourier transform images obtained by symmetrical selection
+of two sets of reflections: ~gg¯1¯11/C0/C1
+mand~gg¯101¯4/C0/C1
+sahi
+Bragg
+reflections on one hand and ~gg¯111/C0/C1
+mand~gg0 1 ¯1¯4/C0/C1
+sahi
+on the
+other hand (Fig. 9b). A perfect structural continuity is observed
+across the interface involving the (1 ¯01)mplanes of zirconia and the
+(11¯08)saplanes of alumina. This continuity is in fact periodically
+achieved each 8 planes of alumina and each 3 planes of zirconia(Fig. 9c). The linear mis-fit F
+0i ss h o w nt ob eq u i t el o w :
+F0~8d1¯108{3d¯101/C12/C12/C12/C12
+8d1¯108~0:0131~1:31%
+One could have been tempted to describe the coincidence
+cell by a lattice two times shorter than suggested by the
+occurrence of the dashed lines reported in Fig. 9c, i.e.4
+(11¯08) saplanes of alumina and 3 (202 ¯)mplanes of zirconia
+each. However, such a smaller sub-cell corresponds to a
+pseudo coincidence relationship as shown by the structural
+model reported in Fig. 9d.
+The position of the interface is determined with a quite good
+accuracy and allows the emphasis of the presence of ledges on
+the alumina substrate (Fig. 9c). As previously determined for
+the main orientation variant, the observed structural con-
+tinuity within the interface may probably result in periodicalcommon cationic lattices shared between alumina and
+zirconia. This assumption is confirmed by Fig. 10b, which
+represents a projection of these common cationic planes:
+(1¯01)
+mof zirconia and (11 ¯08) saof alumina. An amazing
+morphological analogy is here observed again between these
+two common cationic lattices of the monoclinic zirconia and
+rhombohedral alumina. Fig. 10c, which integrates the anionic
+environment of cations, showing how the junction between the
+two lattices is achieved in the Al 2O3/ZrO 2interface. The
+polyhedra drawn in this interface are very similar to those of
+monoclinic zirconia (7-fold coordination). Finally, the struc-
+ture of the interface of this secondary variant can be
+determined (Fig. 11) based on the characteristic periodicities
+of the cationic walls:
+P1=3d(1¯01) m#8d(11¯08) sa#12.4 A ˚,
+P2and P29parallel to the [4 ¯401] saand
+[101] min-plane common directions.
+These two periodicities define the metric of the ‘near
+coincidence cell’ and the interface is thus built up by a careful
+selection of the atomic planes of both alumina and zirconia
+which provide the best structural fit in the Al–O 1–Zr–O 2
+sequence. The anionic polyhedra of the zirconium atomswithin the interface (O
+1–Zr–O 2sequence) involve one anionic
+plane of alumina (O 1) and one anionic plane of zirconia (O 2)
+(Fig. 11). The latter are less regular than those encountered in
+the main orientation variant, suggesting a larger mismatch
+between the two lattices for this orientation variant. In fact, aslight local adjustment of the anion–cation distances easily
+allows a 7-fold coordination for the interfacial zirconium
+atoms. This coordination is here built up on the basis ofthe 4-fold coordination due to the distorted square base
+of the fluorine lattice, as the (010) plane of zirconiadefining the normal orientation contains the bangle, and the
+3-fold coordination of the triangle of the submittal AlO
+6
+octahedra.
+As previously done for the main orientation variant, models
+were drawn to investigate the structural relationship betweenthe tetragonal zirconia and alumina. The establishment of thismodel has failed because the distortion between these twostructures is too high to determine realistic cation–aniondistances.
+Discussion
+The interface defects
+The heterophase interfaces described above represent a large
+mis-fit system. As an example, if one considers the mainorientation variant the actual mis-fit between the two familyplanes d(11¯02)
+saand d(010) mis about 25%. This parametric
+difference supports a regulation mechanism of the dimensional
+mis-fit which corresponds to the periodical introduction of 1/2
+crystalline planes in one of the compounds and consequentlyedge type dislocations are thus observed periodically all alongthe interface. These dislocations, related to the occurrence of acoincidence lattice, allow a reduction of the linear parametric
+Fig. 10 Structural walls of the secondary orientation variant. (a)
+Schematic representation showing the orientation relationships
+between alumina and zirconia involved in the secondary orientation
+variant. (b–c) Projections of the (1 ¯108) saalumina and (101 ¯)mmono-
+clinic zirconia planes shared within the interface: cationic lattices and
+cations with their oxygen coordination polyhedra, respectively.
+This journal is /C223The Royal Society of Chemistry 2006 J. Mater. Chem. , 2006, 16, 3640–3650 |3647
+Published on 23 August 2006. Downloaded by North Carolina State University on 12/11/2025 4:09:04 AM. 
+View Article Online
+
+=====PAGE=====
+mis-fit from 25% to less than 1%. However, these dislocations
+could not be considered as actual physical defects as the half
+‘‘inserted’’ planes only result in the coupling of the two phases
+which are structurally different and undisturbed in first
+approach. Some authors have then described them as
+‘‘geometrical interface dislocations’’.4Owing to the good
+match of the coincidence between the common planes across
+the interface, the geometrical dislocations are generally very
+periodic. The small residual mismatch ( F0#few %) sometimes
+leads to an aperiodic distribution of the geometrical disloca-
+tions which accounts for the slight dimensional incommensu-
+rate character of the coupled structures. As an example, the
+residual mismatch can then be locally resorbed in the vicinity
+of ledges as shown in Fig. 10c. Apart from the geometricaldislocations, no dislocation wall was observed in the interface.
+The most often encountered defects are crystalline steps on the
+surface of the sapphire substrate.Mismatch accommodation and relaxation mechanisms
+At first, the term ‘‘coincidence cell’’ may appear quite
+ambiguous to define the 2-dimensional super-cell of aluminaand zirconia in the interface. As shown in Fig. 3, if we considerthat the two structures behave as rigid bodies, there is in factone individual cell for each compound. Actually, in theinterface these two super-cells may adjust on to each other
+forming a coincidence super-cell within the interface. This
+overlapping which is, however, restricted within the interface isthe only way to achieve the formation of periodic ‘‘structuralwalls’’ that account for the orientation relationships. Inaddition to the calculated linear parametric mis-fit F
+0, the
+overall mis-fit must therefore integrate an additional angularmis-fit of a=9 0284.15 = 5.85 u(see Fig. 3) which is necessary
+to recover the structural continuity of the structural walls
+across the interface. The establishment of the heterophase
+interface is thus supposed to accommodate such a mismatch.However, in these complex oxides much of the relaxation ofthe resulting strain is not plastically accommodated byphysical defects and such oxide/oxide interfaces may presentspecific behavior compared to metals of covalent compounds.The overall mis-fit may be first accommodated within the‘‘structural walls’’ by slight displacements of the zirconium
+atoms within the polyhedra situated in the vicinity of the
+interface, in order to maintain the continuity of the cationicsublattices across the interface between the two structures.Moreover, anionic sublattice must also accommodate themismatch by small shift of the atoms to ensure the regulariza-tion of the interfacial bonding polyhedra within and betweenthese ‘‘structural walls’’. The overall mismatch could then bemostly accommodated by slight cooperative adjustments of thebonding distances within the interface. This could be a typical
+characteristic of the ionocovalent bonds which present a great
+ability of varying distances compared to covalent or metalbonds for which interatomic distances are well established. Therelaxation is, of course, not limited inside the ‘‘structural wall’’and the regularization of the zirconium polyhedra must occurall along the interface. The regularization of the interfaceanionic [ZrO
+7] polyhedra leads to a lower interfacial energy.
+This mechanism of relaxation achieved by degrees, based on
+the softness of the ionocovalent bonding, gives an explanation
+to the accommodation of the important 2-dimensional latticemismatch and enlightens the reasons of the very low amount ofinterfacial physical defects such as dislocations within theseinterfaces. Finally, the accommodation of the lattice mismatchis probably not strictly located within interfacial polyhedra ofcoordination and surely involves the nearest atomic layers inthe interface vicinity. The lattice strain is thus gradually
+accommodated. Evidence of this phenomenon is presented in
+Fig. 4c which shows that bright dots corresponding to atomiccolumns are typically elongated in the very restricted interfacevicinity, accounting for slight adjustments of the cationic andanionic lattices between the two oxide phases.
+When a structural relationship exists between alumina and
+zirconia, it is worth noting that it’s existence is alwayssubordinated to the occurrence of common planes of cationswhich represent common structural features between the two
+phases. They give rise to a structural continuity across the
+Fig. 11 Elaboration of the interface structure of the secondary
+orientation variant: ZrO 22m/Al2O3. (a) Zr4+and O2{
+ðZrO2{mÞ(O2plane)
+lattices of the coincidence cell of ZrO 22m. (b) Al3+and O2{
+ðAl2O3 Þ
+(O1plane) lattices of the coincidence cell of Al 2O3. (c) Interface formed
+by the superimposition of the Zr4+cationic lattice and of the O2{
+ðZrO2{mÞ
+(O2plane) and O2{
+ðAl2O3 Þ(O1plane) lattices.
+3648 |J. Mater. Chem. , 2006, 16, 3640–3650 This journal is /C223The Royal Society of Chemistry 2006
+Published on 23 August 2006. Downloaded by North Carolina State University on 12/11/2025 4:09:04 AM. 
+View Article Online
+
+=====PAGE=====
+interface. These ‘structural walls’ are present even when the
+orientation relationship involves complex common planes
+(Fig. 10). They are probably the main structural characteristics
+of the large mis-fit system that authorizes the formation
+of near coincidence cells of small metrics and thus of low
+surface energy.
+As a consequence of these results, the misorientated islands
+will not exhibit structural continuity across the interface.
+Nevertheless, even in this case, the alumina/zirconia interface
+can be build up with the 36lattice of the alumina and the 44
+lattice of the zirconia by which the polyhedra could always beformed around a 7-fold coordinated zirconium. This remarkcan explain the variety of the orientation relationships
+observed between zirconia island and alumina substrate.
+Conclusion
+The studied alumina/zirconia interfaces are large mis-fit
+systems. The HREM study, however, reveals that they often
+display very strong and simple coincidence relationships. We
+show that the establishment of the in-plane orientation of thestudied islands is due to the occurrence of regular and
+continuous cationic lattice planes across the interface. They
+correspond to ‘structural walls’ which are typical structural
+features of the orientation variants of the zirconia islands
+grown on [112 ¯0]
+sasapphire substrate. Their periodicity is
+determined by HREM image analysis in order to define the
+coincidence super-cell between the two lattices. Based on thisinformation, structural models can be drawn, designing the
+specific geometry of the interface polyhedra. The interface is a
+layer of zirconium atoms in a 7-fold coordination. This
+coordination results in the specific geometry of the two anionic
+lattices of the surrounding phases: 3
+6oxygen lattice in alumina
+and 44oxygen lattice in zirconia. The interfacial polyhedra are
+thus characterized by an average coordination, comprisedbetween the 6-fold coordination of aluminium in sapphire and
+the 8-fold coordination of zirconium in the high temperature
+tetragonal zirconia.
+For the main orientation variant, interface models were
+determined both for the tetragonal phase characteristic of the
+high temperature form of zirconia and for the monoclinic onethat represents the low temperature form. In such a case,
+the heteroepitaxial relationship seems consistent with the
+martensitic phase transformation occurring within zirconia
+crystals during the cooling of the sample. In the opposite, for
+the secondary variant no realistic interface model could be
+established for the tetragonal phase. We will show in a
+forthcoming paper that the interfacial relationship stronglyinfluences the symmetry of the growing zirconia phase and we
+must consider that zirconia islands can directly grow into the
+monoclinic form even at elevated temperature (1500 uC).
+Owing to the large difference between the two coupled
+structures, building the interface supposes a strong structural
+recovering, especially due to a great angular mis-fit. In a firstapproach, the regulation mechanism can obviously be depicted
+by a periodical insertion of mis-fit edge dislocations in one of
+the compounds. We suggest that the ‘structural walls’ play
+a key role in the lattice strain accommodation, especially
+by slight displacement of the zirconium atoms within theinterfacial polyhedra. These atomic shifts, located within the
+interfacial area, account for the periodical occurrence of the‘structural walls’. The lattice strain accommodation withinthe interface is however not limited to the occurrence of these‘structural walls’. Between them, all the interfacial polyhedrasuffer high distortion based on adjustment of their interatomicdistances. The lattice mismatch could thus be locally accom-modated due to the softness of the anionic lattice and,generally speaking, to the adaptability of the ionocovalentbonds. This relaxation mechanism, typical in oxides, enlight-ens the crucial role of the chemical bonds in the formation ofthe heterophase interfaces.
+References
+1 A. P. Sutton and R. W. Balluffi, Interfaces in Crystalline Materials ,
+Clarendon Press, Oxford, 1995.
+2 Y. X. Chen, C. Y. Cui, L. L. He, J. T. Guo and D. X. Li, Mater.
+Lett. , 2000, 44(3–4), 186–191.
+3 B. Pichaud, N. Brule, M. Puerto-Vuaroqueaux and C. Curtil,
+J. Phys.: Condens. Matter , 2002, 13255–13267.
+4 A. Trampert and K. H. Ploog, Cryst. Res. Technol. , 2000, 35(6–7),
+793–806.
+5 W. Barvosa-Carter, M. E. Twigg, M. J. Yang and L. J. Whitman,
+Phys. Rev. B: Condens. Matter , 2001, 63(245311), 1–11.
+6 M. S. Kwon, J. Y. Lee, W. J. Song and S. H. Suh, Ungyong Mulli ,
+1994, 7(4), 266–271.
+7 C. H. Luo, F. R. Chen and L. R. Chen, J. Appl. Phys. , 1994, 76(10,
+Pt. 1), 5744–5747.
+8 H. Xu, Proc. International Congress on Electron Microscopy , 1998,
+14th, Cancun, 3, 475–476.
+9 K. Tillmann, M. Luysberg, P. Specht and E. R. Weber,
+Ultramicroscopy , 2002, 93, 123–137.
+10 J. L. Maurice, R. Lyonnet and J. P. Contour, J. Magn. Magn.
+Mater. , 2000, 211, 91–96.
+11 X. Zhu, J. Zhu, S. Zhou, Z. Liu, N. Ming, H. Lai-Wha Chan,
+C. H. Choy, K. H. Wong and D. Hesse, Mater. Sci. Eng. , 2005,
+118, 219–224.
+12 G. Van Tandeloo, O. I. Lebedev, M. Hervieu and B. Raveau, Rep.
+Prog. Phys. , 2004, 67, 1315–1365.
+13 O. I. Lebedev, G. Van Tendeloo, G. Cristiani, H. U. Habermeier
+and A. T. Matveev, Phys. Rev. B: Condens. Matter , 2005, 71,
+134523.
+14 D. Bao, X. Zhu, M. Alexe and D. Hesse, J. Appl. Phys. , 2005, 98,
+014101.
+15 O. I. Lebedev, J. Verbeeck, G. Van Tendeloo, C. Dubourdieu,
+M. Rosina and P. Chaudoue ¨t,J. Appl. Phys. , 2003, 94(12),
+7646–7656.
+16 M. Varela, A. R. Lupini, S. J. Pennycook, Z. Sefrioui and
+J. Santamaria, J. Solid State Electron. , 2003, 47, 2245–2248.
+17 M. D. Rossell, O. I. Lebedev, G. Van Tendeloo, N. Hayashi,
+T. Terashima and M. Takano, J. Appl. Phys. , 2004, 95, 5145–5152.
+18 P. A. Langjahr, F. F. Lange, T. Wagner and M. Ru ¨hle, Acta
+Mater. , 1998, 3, 773–785.
+19 J. Zhang, A. Visinoiu, F. Heyroth, F. Syrowatka, M. Alexe,
+D. Hesse and H. S. Leipner, Phys. Rev. B: Condens. Matter , 2005,
+71, 064108.
+20 D. Andeen, L. Loeffler, N. Padture and F. F. Lange, J. Cryst.
+Growth , 2003, 259, 103–109.
+21 S. A. Jewhurst, D. Andeen and F. F. Lange, J. Cryst. Growth ,
+2005, 280, 168–172.
+22 M. G. Cain and F. F. Lange, J. Mater. Res. , 1994, 9(3), 674–687.
+23 H. Asaoka, Y. Katano and K. Noda, Appl. Surf. Sci. , 1997, 113–
+114, 198–201.
+24 L. Mazerolles, D. Michel and R. Portier, J. Am. Ceram. Soc. , 1986,
+69(3), 252–255.
+25 L. Mazerolles, D. Michel and M. J. Hy ¨tch, J. Eur. Ceram. Soc. ,
+2005, 25, 1389–1395.
+26 C. Mary, R. Guinebretiere, G. Trolliard, B. Soulestin, P. Villechaize
+and A. Dauger, Thin Solid Films , 1998, 336(1–2), 156–159.
+This journal is /C223The Royal Society of Chemistry 2006 J. Mater. Chem. , 2006, 16, 3640–3650 |3649
+Published on 23 August 2006. Downloaded by North Carolina State University on 12/11/2025 4:09:04 AM. 
+View Article Online
+
+=====PAGE=====
+27 A. Christensen and E. A. Carter, Phys. Rev. B: Condens. Matter ,
+2000, 62(24), 16968–16983.
+28 S. M. Lakiza and L. M. Lopato, J. Am. Ceram. Soc. , 1997, 80,
+893–902.
+29 S. M. Lakiza and L. M. Lopato, J. Am. Ceram. Soc. , 2005, 25,
+1373–1380.
+30 V. V. Srdic and M. Winterer, Chem. Mater. , 2003, 15,
+2668–2674.
+31 T. A. Parthasarathy, T. Y. Mah and L. E. Matson, J. Am. Ceram.
+Soc., 1993, 76, 29–32.32 Y. Waku, H. Ohtsubo, N. Nakagawa and Y. Koutoku, J. Mater.
+Sci., 1996, 31, 4663–4670.
+33 S. Hovmo ¨ller, Ultramicroscopy , 1992, 41, 121.
+34 R. Benemechta, PhD thesis, 2005, Limoges University, France.35 D. N. Wang, Y. Q. Guo, K. M. Liang and K. Tao, Sci. China, Ser.
+A: Math., Phys., Astron. , 1999, 42(1), 80–86.
+36 L. W. Finger and R. M. Hazen, J. Appl. Phys. ,1 9 7 8 , 49, 5823–5826.
+37 N./K. Simha, J. Mech. Phys. Solids , 1997, 45(2), 261–292.
+38 N. K. Simha, J. Phys. IV , 1995, 5(C8), 1121–1126.
+39 W. T. Pennington, J. Appl. Crystallogr. , 1999, 32(5), 1028–1029.
+3650 |J. Mater. Chem. , 2006, 16, 3640–3650 This journal is /C223The Royal Society of Chemistry 2006
+Published on 23 August 2006. Downloaded by North Carolina State University on 12/11/2025 4:09:04 AM. 
+View Article Online

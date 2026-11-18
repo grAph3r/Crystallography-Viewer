@@ -1,0 +1,15 @@
+{
+  "name": "crystallography-viewer",
+  "version": "1.0.0",
+  "description": "Crystallography visualization tool",
+  "main": "app.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
